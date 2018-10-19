@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="tcp_client_qt">
+    </qresource>
+</RCC>
